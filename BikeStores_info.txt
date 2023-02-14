@@ -1,0 +1,9 @@
+production.categories
+production.brands
+production.products
+sales.customers
+sales.stores 
+sales.staffs 
+sales.orders 
+sales.order_items 
+production.stocks
